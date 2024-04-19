@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node cli"
+  },
+  "dependencies": {
+    "node-html-parser": "^6.1.13",
+    "puppeteer": "^22.6.5",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
